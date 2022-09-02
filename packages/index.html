@@ -15,6 +15,7 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
 	<link rel="stylesheet" type="text/css" href="../shared.css">
+	<script src="../shared.js"></script>
 	<link rel="stylesheet" type="text/css" href="packages.css">
 	<link rel="shortcut icon" href="../favicon.ico">
 </head>
@@ -22,8 +23,8 @@
 	<div class="backdrop"></div>
 	<div class="background"></div>
     <header class="main-header">
-		<div class="main-header-corporate-brand">
-		  <button class="toggle-button" onclick="openNavigation()">
+		<div class="main-header-corporate-brand" style="pointer-events: none;">
+		  <button class="toggle-button" onclick="openNavigation()" style="pointer-events: all;">
 			<span class="toggle-button__bar"></span>
 			<span class="toggle-button__bar"></span>
 			<span class="toggle-button__bar"></span>
@@ -144,7 +145,7 @@
 		  </div>
 		</nav>
 	  </footer>
-	<script src="/shared.js"></script>
+	
 
 </body>
 
