@@ -2,7 +2,7 @@
 
 # HostCorps
 
-Website of a fictional hosting provider company. Built with HTML5, CSS3 and vanilla JavaScript. The webApp can be acessed [here](https://nothingnothings.github.io/HostCorps)
+Website of a fictional hosting provider company. Built with HTML5, CSS3 and vanilla JavaScript. The webApp can be acessed [here](https://nothingnothings.github.io/HostCorps).
 
 ## Technologies
 
@@ -27,7 +27,6 @@ To use this project, clone it using Git:
 - Form validation logic in the "Start Hosting" page
 - Responsive design (mobile and desktop) created with Flexbox and media queries
 - Addition/removal of CSS classes ("slide-in" animation) implemented with JavaScript
-
 
 ## Inspiration
 
