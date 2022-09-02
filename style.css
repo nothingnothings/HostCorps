@@ -18,7 +18,7 @@ body {
 
 #product-overview {
   background: linear-gradient(to top, rgba(80, 68, 18, 0.6) 10%, transparent),
-    url('img/freedom.jpg') 30% 30% / cover no-repeat border-box, #ff1b68;
+    url('img/freedom.jpg') 30% 30% / cover no-repeat border-box;
   width: 100vw;
   height: 52vh;
   box-sizing: border-box;
