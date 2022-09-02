@@ -33,9 +33,6 @@ function closeModal() {
 
 function revealUpwards() {
   var reveals = document.querySelectorAll('.reveal-upwards');
-
-  console.log(reveals);
-
   for (var i = 0; i < reveals.length; i++) {
     var windowHeight = window.innerHeight;
     var elementTop = reveals[i].getBoundingClientRect().top;
@@ -80,7 +77,6 @@ window.addEventListener('DOMContentLoaded', revealUpwards);
 window.addEventListener('scroll', revealUpwards);
 
 window.addEventListener('scroll', revealSideways);
-
 
 backdrop.addEventListener('click', function () {
   // mobileNav.classList.remove('open');
