@@ -1,4 +1,4 @@
-# ![Logo](/logo192.png)
+# ![HostCorps](/HostCorps.png)
 
 # HostCorps
 
