@@ -31,3 +31,4 @@ To use this project, clone it using Git:
 
 ## Inspiration
 
+Inspired by the "JavaScript - The Complete Guide" course by Maximilian Schwarzmüller.
