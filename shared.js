@@ -79,7 +79,6 @@ window.addEventListener('scroll', revealUpwards);
 window.addEventListener('scroll', revealSideways);
 
 backdrop.addEventListener('click', function () {
-  // mobileNav.classList.remove('open');
   closeModal();
 });
 
