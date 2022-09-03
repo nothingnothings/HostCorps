@@ -9,7 +9,7 @@
 } */
 
 @font-face {
-  font-family: 'UniSans';
+  font-family: 'Uni Sans Heavy CAPS';
   src: url('/../../HostCorps/fonts/UniSansHeavyCAPS.woff2') format('woff2'),
     url('/../../HostCorps/fonts/UniSansHeavyCAPS.woff') format('woff');
   font-weight: 900;
@@ -20,7 +20,7 @@
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  font-family: 'UniSans';
+  font-family: 'Uni Sans Heavy CAPS';
 }
 
 :root {
@@ -148,15 +148,13 @@ main {
 }
 
 .main-header-corporate-brand h1 {
-  font-family: 'UniSans';
+  font-family: 'Uni Sans Heavy CAPS';
   font-size: 1.2rem;
-  font-family: 'Montserrat';
   color: var(--white-highlight);
 }
 
 .main-header-corporate-brand span {
-  font-family: 'UniSans';
-  font-family: 'Montserrat';
+  font-family: 'Uni Sans Heavy CAPS';
   font-size: 3rem;
   color: var(--white-highlight);
 }
