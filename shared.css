@@ -2,12 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
-/* @font-face {
-  font-family: 'UniSans';
-  src: url('/../../HostCorps/fonts/uni-sans.heavy-caps.otf') format('truetype');
-  font-weight: 700;
-} */
-
 @font-face {
   font-family: 'Uni Sans Heavy CAPS';
   src: url('/../../HostCorps/fonts/UniSansHeavyCAPS.woff2') format('woff2'),
