@@ -135,7 +135,6 @@ main {
 .main-header-corporate-brand {
   display: flex;
   cursor: pointer;
-  line-height: 1.2;
   align-items: center;
   text-decoration: none;
 }
