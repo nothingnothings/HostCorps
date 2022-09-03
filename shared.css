@@ -93,7 +93,7 @@ main {
   background-color: var(--darkest);
   padding: 0.125rem 1rem;
   width: 100%;
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   left: 0;
   z-index: 2;
