@@ -12,8 +12,9 @@
   font-family: 'UniSans';
   src: url('/../../HostCorps/fonts/UniSansHeavyCAPS.woff2') format('woff2'),
     url('/../../HostCorps/fonts/UniSansHeavyCAPS.woff') format('woff');
-  font-weight: 700;
+  font-weight: 900;
   font-style: normal;
+  font-display: swap;
 }
 
 * {
