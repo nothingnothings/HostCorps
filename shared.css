@@ -139,13 +139,13 @@ main {
 }
 
 .main-header-corporate-brand h1 {
-  font-family: 'UniSans';
+  /* font-family: 'UniSans'; */
   font-size: 1.2rem;
   color: var(--white-highlight);
 }
 
 .main-header-corporate-brand span {
-  font-family: 'UniSans';
+  /* font-family: 'UniSans'; */
   font-size: 3rem;
   color: var(--white-highlight);
 }
