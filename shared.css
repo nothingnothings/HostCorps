@@ -91,7 +91,7 @@ main {
 
 .main-header {
   background-color: var(--darkest);
-  padding: 0.125rem 1rem;
+  padding: 0.125rem 0.5rem;
   width: 100%;
   top: 0;
   left: 0;
