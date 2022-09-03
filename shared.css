@@ -47,8 +47,6 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  display: box;
-  box-orient: vertical;
 }
 
 @supports (display: grid) {
