@@ -78,9 +78,11 @@ window.addEventListener('scroll', revealUpwards);
 
 window.addEventListener('scroll', revealSideways);
 
-backdrop.addEventListener('click', function () {
-  closeModal();
-});
+if (backdrop) {
+  backdrop.addEventListener('click', function () {
+    closeModal();
+  });
+}
 
 if (ctaButton) {
   ctaButton.addEventListener('animationstart', function (event) {});
