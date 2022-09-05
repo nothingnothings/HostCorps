@@ -14,6 +14,63 @@ Some of the Languages and Libraries employed:
 - Form validation logic (basic input validation, logic for adding and removing "focus" and "invalid" styles, etc)
 - Responsive mobile design (sidebar, Flexbox, media queries)
 
+## Project Directory Structure
+
+
+As seen in the `master` and `gh-pages` branches:
+
+```
+.\
+│
+├── customers\
+│   ├── customers.css
+│   └── index.html
+│
+├── fonts\
+│   ├── UniSansHeavyCAPS.woff
+│   ├── UniSansHeavyCAPS.woff2
+│   ├── anonymousPro-Bold.ttf
+│   └── anonymousPro-Regular.ttf
+│
+├── img\
+│   ├── HostCorps.png
+│   ├── HostCorps.svg
+│   ├── customer-1.jpg
+│   ├── customer-2.jpg
+│   ├── customer-3.jpg
+│   └── freedom.jpg
+│
+├── packages\
+│   │
+│   ├── images\
+│   │   └── plan.jpg
+│   │
+│   ├── index.html
+│   └── packages.css
+│
+├── start-hosting\
+│   ├── index.html
+│   ├── start-hosting.css
+│   └── start-hosting.js
+│
+├── .gitignore
+├── README.md
+├── android-chrome-192x192.png
+├── android-chrome-512x512.png
+├── apple-touch-icon.png
+├── browserconfig.xml
+├── favicon-16x16.png
+├── favicon-32x32.png
+├── favicon.ico
+├── index.html
+├── mstile-150x150.png
+├── safari-pinned-tab.svg
+├── shared.css
+├── shared.js
+├── site.webmanifest
+└── style.css
+```
+
 ## Setup
 
 To use this project, clone it using Git:
