@@ -241,7 +241,6 @@ main {
 .signature span {
   font-family: 'Montserrat';
 }
-
 .footerprincipal__links {
   list-style: none;
   padding: 0px;
@@ -476,7 +475,6 @@ main {
     transform: scale(1.1);
   }
 }
-
 
 @-moz-keyframes slide-left-signature {
   0% {
