@@ -55,8 +55,9 @@ body {
   width: 100%;
 }
 
-.plan h3 {
-  font-family: 'Montserrat';
+
+.plan__description {
+  
 }
 
 .plan__title {
