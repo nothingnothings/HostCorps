@@ -1,4 +1,4 @@
-![logo](/img/HostCorps.png)
+![HostCorps](/img/HostCorps.png)
 
 # HostCorps
 
@@ -70,6 +70,7 @@ As seen in the `master` and `gh-pages` branches:
 ├── site.webmanifest
 └── style.css
 ```
+
 
 ## Setup
 
