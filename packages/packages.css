@@ -54,7 +54,8 @@ main {
 }
 
 .plan__option a h2 {
-  color: var(--grey-grey);
+  /* color: var(--grey-grey); */
+  color: var(--light-grey);
   margin-left: 1.25rem;
 }
 
