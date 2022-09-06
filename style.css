@@ -114,6 +114,10 @@ body {
   margin: 0.5rem 0px;
 }
 
+.plan__feature {
+  font-family: 'Montserrat';
+}
+
 #key-features {
   background: var(--highlight-color);
   margin-top: 5rem;
