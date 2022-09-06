@@ -55,6 +55,10 @@ body {
   width: 100%;
 }
 
+.plan__title {
+  font-family: 'Montserrat';
+}
+
 .plan--highlighted {
   background-color: var(--highlight-color);
   color: var(--white-highlight);
