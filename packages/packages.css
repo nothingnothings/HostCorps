@@ -80,8 +80,8 @@ main {
   right: 4.5vw;
   margin: 1.2rem;
   font-size: 0.8rem;
-  color: white;
-  background: black;
+  color: var(--white-highlight);
+  background: var(--darkest);
   padding: 0.5rem;
   transform: rotateZ(45deg) translateX(5.2rem) translateY(-11rem);
   transform-origin: 1rem 1rem;
