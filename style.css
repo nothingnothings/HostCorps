@@ -104,6 +104,7 @@ body {
 
 .plan__features {
   list-style: none;
+  font-family: 'Montserrat';
   margin: 0;
   margin-bottom: 20px;
   padding: 0;
