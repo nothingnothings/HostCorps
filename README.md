@@ -6,6 +6,11 @@ Website of a fictional hosting provider company. Built with HTML5, CSS3 and vani
 
 This version of the app was made without Webpack; the Webpack version, with a GitHub Actions deployment workflow, can be found [here](https://github.com/nothingnothings/HostCorpsWebpackVersion).
 
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/HostCorps/master?style=flat-square)
+[![HitCount](https://hits.dwyl.com/nothingnothings/HostCorps.svg?style=flat-square)](http://hits.dwyl.com/nothingnothings/HostCorps)
+
+
+
 ## Technologies
 
 Some of the Languages and Libraries employed:
