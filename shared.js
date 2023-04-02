@@ -85,9 +85,9 @@ if (backdrop) {
 }
 
 if (ctaButton) {
-  ctaButton.addEventListener('animationstart', function (event) {});
+  ctaButton.addEventListener('animationstart', function () {});
 
-  ctaButton.addEventListener('animationend', function (event) {});
+  ctaButton.addEventListener('animationend', function () {});
 
-  ctaButton.addEventListener('animationiteration', function (event) {});
+  ctaButton.addEventListener('animationiteration', function () {});
 }
