@@ -7,9 +7,8 @@ Website of a fictional hosting provider company. Built with HTML5, CSS3 and vani
 This version of the app was made without Webpack; the Webpack version, with a GitHub Actions deployment workflow, can be found [here](https://github.com/nothingnothings/HostCorpsWebpackVersion).
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/HostCorps/master?style=flat-square)
-[![HitCount](https://hits.dwyl.com/nothingnothings/HostCorps.svg?style=flat-square)](http://hits.dwyl.com/nothingnothings/HostCorps)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nothingnothings/HostCorps)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/nothingnothings/HostCorps/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg?style=flat-square)](https://github.com/nothingnothings/HostCorps)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg?style=flat-square)](https://github.com/nothingnothings/HostCorps/blob/master/README.pt-br.md)
 
 
 
