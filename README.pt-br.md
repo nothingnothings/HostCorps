@@ -2,9 +2,9 @@
 
 # HostCorps
 
-Website of a fictional hosting provider company. Built with HTML5, CSS3 and vanilla JavaScript. The webApp can be acessed [here](https://nothingnothings.github.io/HostCorps). 
+Site de uma empresa fictícia de hospedagem. Construído com HTML5, CSS3 e JavaScript puro. A webApp pode ser acessada [aqui](https://nothingnothings.github.io/HostCorps).
 
-This version of the app was made without Webpack; the Webpack version, with a GitHub Actions deployment workflow, can be found [here](https://github.com/nothingnothings/HostCorpsWebpackVersion).
+Esta versão do aplicativo foi feita sem Webpack; a versão com Webpack, que possui um fluxo de trabalho de implantação com GitHub Actions, pode ser encontrada [aqui](https://github.com/nothingnothings/HostCorpsWebpackVersion).
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/HostCorps/master?style=flat-square)
 [![HitCount](https://hits.dwyl.com/nothingnothings/HostCorps.svg?style=flat-square)](http://hits.dwyl.com/nothingnothings/HostCorps)
@@ -13,20 +13,20 @@ This version of the app was made without Webpack; the Webpack version, with a Gi
 
 
 
-## Technologies
+## Tecnologias
 
-Some of the Languages and Libraries employed:
+Algumas das linguagens e bibliotecas empregadas:
 
 - HTML5
-- CSS3 (animations, Flexbox, media queries)
-- Vanilla JavaScript (no JavaScript frameworks; usage of `var`, normal functions and common eventListeners)
-- Form validation logic (basic input validation, logic for adding and removing "focus" and "invalid" styles, etc)
-- Responsive mobile design (sidebar, Flexbox, media queries)
+- CSS3 (animações, Flexbox, media queries)
+- JavaScript puro (sem frameworks JavaScript; uso de `var`, funções normais e eventListeners comuns)
+- Lógica de validação de formulários (validação básica de entrada, lógica para adicionar e remover estilos de "foco" e "inválido", etc.)
+- Design responsivo para dispositivos móveis (barra lateral, Flexbox, media queries)
 
-## Project Directory Structure
+## Estrutura de Diretórios do Projeto
 
 
-As seen in the `master` and `gh-pages` branches:
+Conforme estrutura dos ramos `master` e `gh-pages`:
 
 ```
 .\
@@ -81,22 +81,22 @@ As seen in the `master` and `gh-pages` branches:
 ```
 
 
-## Setup
+## Configuração
 
-To use this project, clone it using Git:
+Para usar este projeto, clone-o usando o Git:
 
-1. Run `git clone` to clone the project into your local Git repository
-2. Serve the files with the help of a hosting provider (frontend-only)
+1. Execute `git clone` para clonar o projeto em seu repositório local do Git.
+2. Sirva os arquivos com a ajuda de um provedor de hospedagem (apenas frontend).
 
-## Features
+## Funcionalidades
 
-- Multiple pages (different HTML pages, normal page serving)
-- Form validation logic in the "Start Hosting" page
-- Responsive design (mobile and desktop) created with Flexbox and media queries
-- Addition/removal of CSS classes ("slide-in" animation) implemented with JavaScript
-- Usage of GitHub Actions to, upon the `git push` command, transfer the contents of the `master` branch into the `gh-pages` branch, which then deploys it at https://nothingnothings.github.io/HostCorps.
-- Custom favicon, compatible with multiple devices
+- Múltiplas páginas (diferentes páginas HTML, servidor de páginas normal)
+- Lógica de validação de formulários na página "Start Hosting"
+- Design responsivo (móvel e desktop) criado com Flexbox e media queries
+- Adição/removal de classes CSS (animação "slide-in") implementada com JavaScript
+- Uso de GitHub Actions para, por meio do comando `git push`, transferir o conteúdo do ramo `master` para o ramo `gh-pages`, que então realiza o deploy em https://nothingnothings.github.io/HostCorps
+- Favicon personalizado, compatível com vários dispositivos
 
-## Inspiration
+## Inspiração
 
 Inspired by the "JavaScript - The Complete Guide" course by Maximilian Schwarzmüller.
