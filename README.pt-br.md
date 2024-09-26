@@ -7,8 +7,8 @@ Site de uma empresa fictícia de hospedagem. Construído com HTML5, CSS3 e JavaS
 Esta versão do aplicativo foi feita sem Webpack; a versão com Webpack, que possui um fluxo de trabalho de implantação com GitHub Actions, pode ser encontrada [aqui](https://github.com/nothingnothings/HostCorpsWebpackVersion).
 
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/nothingnothings/HostCorps/master?style=flat-square)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/nothingnothings/HostCorps)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/nothingnothings/HostCorps/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg?style=flat-square)](https://github.com/nothingnothings/HostCorps)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg?style=flat-square)](https://github.com/nothingnothings/HostCorps/blob/master/README.pt-br.md)
 
 
 
